@@ -8,9 +8,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](YOUR_PORTFOLIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://chamankhan-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chaman-khan-019194202)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaman.viiva@gmail.com)
 
 </div>
 
@@ -182,7 +182,7 @@ Farmer-to-Customer Marketplace
 
 # 🏆 GitHub Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Chaman-Viiva&theme=github-compact)
 
 ---
 
@@ -203,7 +203,7 @@ Before this profile, I actively used another GitHub account where I built projec
 
 You can explore my previous work here:
 
-### 👉 https://github.com/YOUR_PREVIOUS_GITHUB
+### 👉 https://github.com/Chaman-Khan
 
 It represents an important part of my development journey and showcases earlier projects and contributions.
 
@@ -213,9 +213,9 @@ It represents an important part of my development journey and showcases earlier 
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO">🌐 Portfolio</a> •
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://chamankhan-dev.vercel.app">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/chaman-khan-019194202">LinkedIn</a> •
+<a href="mailto:chaman.viiva@gmail.com">Email</a>
 
 </p>
 
