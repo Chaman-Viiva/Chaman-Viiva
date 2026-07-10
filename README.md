@@ -229,7 +229,7 @@ It represents an important part of my development journey and showcases earlier 
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=Chaman-Viiva&style=for-the-badge&color=blue)
 
 ### ⭐ Thanks for visiting my profile!
 
